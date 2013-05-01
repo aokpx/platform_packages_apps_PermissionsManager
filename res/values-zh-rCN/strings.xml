@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013 The ChameleonOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+
+    <string name="app_name">权限管理</string>
+    <string name="action_settings">设置</string>
+    <string name="title_settings">设置</string>
+    <string name="title_apps">应用程序</string>
+    <string name="title_activity_manager">管理</string>
+    <string name="pref_enable_management_title">启用管理</string>
+    <string name="pref_enable_management_summary_on">权限管理已启用</string>
+    <string name="pref_enable_management_summary_off">权限管理已禁用</string>
+    <string name="tab_settings">设置</string>
+    <string name="tab_apps">应用程序</string>
+
+    <string name="switch_label">管理</string>
+
+    <string name="dlg_perm_info_dismiss">取消</string>
+
+    <string name="dlg_disclaimer_title">副作用</string>
+    <string name="dlg_disclaimer_message">撤消权限可能会导致应用程序运行不正常或崩溃。当您尝试撤销权限时，我们请您记住这一点。\n\n如果撤销权限的应用程序无法运行，或者没有按照你希望的结果运行；假设应用程序出现故障或设计不当，在你再次尝试运行之前，请恢复撤销的权限。\n\n我们对撤销权限产生的后果不负任何责任。</string>
+    <string name="dlg_disclaimer_agree">我理解</string>
+    <string name="dlg_disclaimer_tldr">不想看</string>
+    <string name="dlg_tldr_message">如果撤销权限后应用程序运行不正常或崩溃。\n\n请恢复撤销的权限。</string>
+    <string name="dlg_tldr_disagree">退出</string>
+
+</resources>
