@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Správa oprávnění</string>
+    <string name="action_settings">Nastavení</string>
+    <string name="title_settings">Nastavení</string>
+    <string name="title_apps">Aplikace</string>
+    <string name="title_activity_manager">Spravovat aktivitu</string>
+    <string name="pref_enable_management_title">Zapnout správu</string>
+    <string name="pref_enable_management_summary_on">Správa oprávnění je zapnutá</string>
+    <string name="pref_enable_management_summary_off">Správa oprávnění je vypnutá</string>
+    <string name="tab_settings">Nastavení</string>
+    <string name="tab_apps">Aplikace</string>
+    <string name="switch_label">Správa</string>
+    <string name="dlg_perm_info_dismiss">Odmítnout</string>
+    <string name="dlg_disclaimer_title">Zvážení nežádoucích účinků</string>
+    <string name="dlg_disclaimer_message">Odmítnutí oprávnění může způsobit chybné chování aplikace či dokonce její pád. Tato otázka je pokládána, aby byl tento fakt veden v patrnosti.\n\nPokud nebude nějaká aplikace s odminutými oprávněními fungovat jak má, bude třeba obnovit všechna zakázaná oprávnění, a vyzkoušet aplikaci znovu.</string>
+    <string name="dlg_disclaimer_agree">Všemu je rozumnět</string>
+    <string name="dlg_disclaimer_tldr">Pryč</string>
+    <string name="dlg_tldr_message">Pokud budou odmítnutá oprávnění, je třeba očekávat chybné chování aplikace nebo její ukončení.\n\nJe nutné převzít odpovědnost.</string>
+    <string name="dlg_tldr_disagree">Ukončit</string>
+</resources>

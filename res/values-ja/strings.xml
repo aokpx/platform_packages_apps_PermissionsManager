@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013 The ChameleonOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+
+    <string name="app_name">パーミッション管理</string>
+    <string name="action_settings">設定</string>
+    <string name="title_settings">設定</string>
+    <string name="title_apps">アプリ</string>
+    <string name="title_activity_manager">管理動作</string>
+    <string name="pref_enable_management_title">管理を有効</string>
+    <string name="pref_enable_management_summary_on">パーミッション管理は有効です</string>
+    <string name="pref_enable_management_summary_off">パーミッション管理は無効です</string>
+    <string name="tab_settings">設定</string>
+    <string name="tab_apps">アプリ</string>
+
+    <string name="switch_label">管理</string>
+
+    <string name="dlg_perm_info_dismiss">閉じる</string>
+
+    <string name="dlg_disclaimer_title">副作用</string>
+    <string name="dlg_disclaimer_message">権限の取り消しはアプリの不正動作や強制終了を引きおこす恐れがあります。権限を取り消す際はこのことを考慮してください。\n\nもし権限を取り消してアプリが思うように動作しなかった場合、アプリの不具合を疑う前に権限を元に戻してみてください。\n\n権限の取り消しはすべて自己責任で行なってください。</string>
+    <string name="dlg_disclaimer_agree">了解</string>
+    <string name="dlg_disclaimer_tldr">無視</string>
+    <string name="dlg_tldr_message">権限を取り消すとアプリが不正動作したり強制終了することが予想されます。\n\n権限の取り消しは自己責任で行なってください。</string>
+    <string name="dlg_tldr_disagree">中止</string>
+
+</resources>
