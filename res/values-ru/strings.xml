@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013 The ChameleonOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+
+    <string name="app_name">Permissions Management</string>
+    <string name="action_settings">Настройки</string>
+    <string name="title_settings">Настройки</string>
+    <string name="title_apps">Приложения</string>
+    <string name="title_activity_manager">ManagerActivity</string>
+    <string name="pref_enable_management_title">Включить управление</string>
+    <string name="pref_enable_management_summary_on">Управление разрешениями включено</string>
+    <string name="pref_enable_management_summary_off">Управление разрешениями отключено</string>
+    <string name="tab_settings">Настройки</string>
+    <string name="tab_apps">Приложения</string>
+    <string name="switch_label">Управление</string>
+    <string name="dlg_perm_info_dismiss">Отмена</string>
+    <string name="dlg_disclaimer_title">Побочные эффекты</string>
+    <string name="dlg_disclaimer_message">Изменение разрешений может вызвать некорректную работу или сбой приложений. Просим учитывать это при изменении разрешений. Если Вы изменяете разрешения и приложение работает не так, как бы Вы хотели, пожалуйста, восстановите отменённые разрешения и попытайтесь снова, убедившись, что виной этому не является само приложение или то, как оно сделано. Всё, что мы просим, это то, чтобы Вы взяли на себя ответственность за изменения.</string>
+    <string name="dlg_disclaimer_agree">Я понял</string>
+    <string name="dlg_disclaimer_tldr">Что?</string>
+    <string name="dlg_tldr_message">Если менять разрешения, приложения могут неправильно работать и/или давать сбой. Под Вашу ответственность.</string>
+    <string name="dlg_tldr_disagree">Выход</string>
+
+</resources>
